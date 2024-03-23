@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WEBSAIGONGLISTEN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03ae6eee35c4d634763ec065b0d96e431989493c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85ce748c4d3f87e8600959697d3b83328df82fee")]
 [assembly: System.Reflection.AssemblyProductAttribute("WEBSAIGONGLISTEN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WEBSAIGONGLISTEN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
