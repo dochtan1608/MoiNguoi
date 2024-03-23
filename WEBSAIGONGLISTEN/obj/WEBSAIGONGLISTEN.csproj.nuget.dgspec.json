@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trann\\OneDrive\\Documents\\Đồ án cơ sở\\WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj": {}
+    "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trann\\OneDrive\\Documents\\Đồ án cơ sở\\WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj": {
+    "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trann\\OneDrive\\Documents\\Đồ án cơ sở\\WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj",
         "projectName": "WEBSAIGONGLISTEN",
-        "projectPath": "C:\\Users\\trann\\OneDrive\\Documents\\Đồ án cơ sở\\WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj",
-        "packagesPath": "C:\\Users\\trann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trann\\OneDrive\\Documents\\Đồ án cơ sở\\WEBSAIGONGLISTEN\\obj\\",
+        "projectPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\trann\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -69,6 +69,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
@@ -90,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
