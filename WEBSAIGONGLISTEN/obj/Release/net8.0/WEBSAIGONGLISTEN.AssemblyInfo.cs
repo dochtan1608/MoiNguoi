@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-WEBSAIGONGLISTEN-988840b7-878a-4b51-9f1b-9846649f5ddb")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("WEBSAIGONGLISTEN")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03ae6eee35c4d634763ec065b0d96e431989493c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WEBSAIGONGLISTEN")]
