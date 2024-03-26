@@ -16,30 +16,27 @@ html {
   position: relative;
   min-height: 100%;
 }
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
 
 body {
-  margin-bottom: 60px;
+    font-weight: bold;
+
+    box-sizing: border-box;
 }
 
-.nav-item{
-    font-size:20px;
-    float:left;
-    margin-right:20px;
-}
-
-    .nav-item:hover {
-        background-color: #DDDDDD;
-        transform: translateY(-3px);
-        border-radius: 50px;
-        transition: all.5s;
-        box-shadow: 0 10px 10px rgba(0,0,0,.2);
-    }
-.nav-item:link, nav.nav-item:visited{
-    display:inline-block;
+banner {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     
-
+    position: relative;
 }
-    .nav-item:active {
-        transform: translateY(-1px);
-        box-shadow: 0 5px 10px rgba(0,0,0,.2);
-    }
+
+
+.header {
+    background-size: cover;
+}
