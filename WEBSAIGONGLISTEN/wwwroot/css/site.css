@@ -1,17 +1,35 @@
 
-
-body {
-    background-color: aquamarine;
-}
 footer {
-    background-color: yellow;
     margin: 0;
     padding: 0;
 }
 video.video {
-    height: auto;
     width: 100%;
 }
 .container-custom {
     min-height: calc(100vh - 153px);
+    margin:0;
 }
+.nav-item {
+    font-size: 20px;
+    float: left;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+    .nav-item:hover {
+        background-color: #DDDDDD;
+        transform: translateY(-3px);
+        border-radius: 50px;
+        transition: all.5s;
+        box-shadow: 0 10px 10px rgba(0,0,0,.2);
+    }
+
+    .nav-item:link, nav.nav-item:visited {
+        display: inline-block;
+    }
+
+    .nav-item:active {
+        transform: translateY(-1px);
+        box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    }
