@@ -48,7 +48,7 @@ namespace WEBSAIGONGLISTEN.Controllers
 
             var blogs = await _context.Blogs
                                       .Where(b => b.PlaceName.Contains(query)) // 'PlaceName' là tên cột chứa tên địa danh
-                                      .ToListAsync();ooo
+                                      .ToListAsync();
             // Sau đó, trả về view kết quả tìm kiếm
             return View();
         }
