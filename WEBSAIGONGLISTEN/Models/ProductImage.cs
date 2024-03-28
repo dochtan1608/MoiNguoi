@@ -1,4 +1,4 @@
-﻿namespace WebsiteBanHang.Models
+﻿namespace WEBSAIGONGLISTEN.Models
 {
     public class ProductImage
     {

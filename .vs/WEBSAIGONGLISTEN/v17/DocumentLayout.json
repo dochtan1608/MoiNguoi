@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\trann\\OneDrive\\Documents\\\u0110ACS\\MoiNguoi\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\doancoso\\moinguoi\\websaigonglisten\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\doancoso\\moinguoi\\websaigonglisten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\doancoso\\moinguoi\\websaigonglisten\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,10 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-<<<<<<< HEAD
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:56:07.657Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
@@ -20,48 +45,23 @@
               "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Program.cs",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Program.cs",
               "RelativeToolTip": "WEBSAIGONGLISTEN\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T06:15:44.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAcwDUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T06:08:46.771Z",
+              "WhenOpened": "2024-03-28T08:54:01.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T06:00:02.464Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\appsettings.json",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\appsettings.json",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T08:53:55.083Z",
               "EditorCaption": ""
-=======
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
->>>>>>> 0ea46c2d0109c2ca2aa66af5a455c71afe20f371
             }
           ]
         }

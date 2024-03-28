@@ -1,6 +1,6 @@
-﻿using WebsiteBanHang.Models;
+﻿using WEBSAIGONGLISTEN.Models;
 
-namespace WebsiteBanHang.Models
+namespace WEBSAIGONGLISTEN.Models
 {
 	public interface IProductRepository
 	{

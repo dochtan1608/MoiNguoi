@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace WebsiteBanHang.Models
+namespace WEBSAIGONGLISTEN.Models
 {
     public class Product
     {
@@ -12,8 +12,6 @@ namespace WebsiteBanHang.Models
         public string Description { get; set; }
         public string? ImageUrl { get; set; }
         public List<ProductImage>? Images { get; set; }
-        public int CategoryId { get; set; }
- 
-        public Category? Category { get; set; }
+
     }
 }

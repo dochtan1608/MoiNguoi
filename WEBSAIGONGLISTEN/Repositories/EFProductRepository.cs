@@ -1,7 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebsiteBanHang.Models;
-using WebsiteBanHang.Repositories;
-using WebsiteBanHang.Models;
+using WEBSAIGONGLISTEN.Models;
 
 public class EFProductRepository : IProductRepository 
 {
@@ -12,17 +10,11 @@ public class EFProductRepository : IProductRepository
 	}
 	public async Task<IEnumerable<Product>> GetAllAsync()
 	{
-		// return await _context.Products.ToListAsync();
-		return await _context.Products
-		.Include(p => p.Category) // Include thông tin về category
-		.ToListAsync();
+		return await _context.Products.ToListAsync();
 	}
 	public async Task<Product> GetByIdAsync(int id)
 	{
-		// return await _context.Products.FindAsync(id);
-		// lấy thông tin kèm theo category
-		return await _context.Products.Include(p =>
-	   p.Category).FirstOrDefaultAsync(p => p.Id == id);
+		return await _context.Products.FindAsync(id);
 	}
 	public async Task AddAsync(Product product)
 	{

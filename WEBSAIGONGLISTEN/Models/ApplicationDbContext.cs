@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
-namespace WebsiteBanHang.Models
+namespace WEBSAIGONGLISTEN.Models
 {
     public class ApplicationDbContext : IdentityDbContext
     {
@@ -10,7 +10,6 @@ namespace WebsiteBanHang.Models
         }
 
         public DbSet<Product> Products { get; set; }
-        public DbSet<Category> Categories { get; set; }
         public DbSet<ProductImage> ProductImages { get; set; }
     }
 }
