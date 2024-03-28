@@ -12,6 +12,45 @@
           "SelectedChildIndex": -1,
           "Children": [
             {
+<<<<<<< HEAD
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Program.cs",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Program.cs",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:15:44.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwDUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:08:46.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T06:00:02.464Z",
+              "EditorCaption": ""
+=======
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
@@ -22,6 +61,7 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+>>>>>>> 0ea46c2d0109c2ca2aa66af5a455c71afe20f371
             }
           ]
         }
