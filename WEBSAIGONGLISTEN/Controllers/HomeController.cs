@@ -1,5 +1,7 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
+using System.Reflection.Metadata;
 using WEBSAIGONGLISTEN.Models;
 
 namespace WEBSAIGONGLISTEN.Controllers
@@ -34,6 +36,23 @@ namespace WEBSAIGONGLISTEN.Controllers
         {
             return View();
         }
+
+        public IActionResult Search(string query)
+        {
+            // Thực hiện tìm kiếm trong cơ sở dữ liệu hoặc từ nguồn dữ liệu khác
+
+            if (string.IsNullOrWhiteSpace(query))
+            {
+                return View(new List<Blog>()); // Trả về một danh sách rỗng hoặc bạn có thể chọn hiển thị một thông báo lỗi/phản hồi.
+            }
+
+            var blogs = await _context.Blogs
+                                      .Where(b => b.PlaceName.Contains(query)) // 'PlaceName' là tên cột chứa tên địa danh
+                                      .ToListAsync();
+            // Sau đó, trả về view kết quả tìm kiếm
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

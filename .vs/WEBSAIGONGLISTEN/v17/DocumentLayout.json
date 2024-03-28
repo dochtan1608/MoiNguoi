@@ -1,30 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\desktop\\projctweb\\websaigonglisten\\moinguoi\\websaigonglisten\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\doancoso\\moinguoi\\websaigonglisten\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\desktop\\projctweb\\websaigonglisten\\moinguoi\\websaigonglisten\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\doancoso\\moinguoi\\websaigonglisten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\desktop\\projctweb\\websaigonglisten\\moinguoi\\websaigonglisten\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\desktop\\projctweb\\websaigonglisten\\moinguoi\\websaigonglisten\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\desktop\\projctweb\\websaigonglisten\\moinguoi\\websaigonglisten\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\doancoso\\moinguoi\\websaigonglisten\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\desktop\\projctweb\\websaigonglisten\\moinguoi\\websaigonglisten\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "RelativeToolTip": "WEBSAIGONGLISTEN\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-23T14:24:05.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeAdminController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "RelativeToolTip": "WEBSAIGONGLISTEN\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Program.cs",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Program.cs",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T14:19:51.891Z",
+              "WhenOpened": "2024-03-28T06:15:44.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "WEBSAIGONGLISTEN\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-23T14:05:44.633Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAcwC0AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:08:46.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "WEBSAIGONGLISTEN\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-23T14:02:49.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-23T13:11:15.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WEBSAIGONGLISTEN\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-23T13:10:09.71Z"
+              "WhenOpened": "2024-03-28T06:00:02.464Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A6OOxqTXEie399pMMnqwcLthhpErnolMge409tF7eqxOfhLoGkFzqE2oNuSv/Qsg+k8Q7yM2jp0aPKlqXY//zg==",
+  "dgSpecHash": "PuWRopJhBltFO+wKK/v2xJLdepAcla1+wi1XXlFsnetzC0BQqebL6OklfJxwjTU//BG5gbzN3LKx646i0DRgHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\OneDrive\\Desktop\\ProjctWeb\\WEBSAIGONGLISTEN\\MoiNguoi\\WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\OneDrive\\Tài liệu\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
