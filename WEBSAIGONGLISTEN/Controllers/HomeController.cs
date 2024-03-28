@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using System.Reflection.Metadata;
 using WEBSAIGONGLISTEN.Models;
+using WebsiteBanHang.Models;
+using WebsiteBanHang.Repositories;
 
 namespace WEBSAIGONGLISTEN.Controllers
 {
@@ -41,14 +43,14 @@ namespace WEBSAIGONGLISTEN.Controllers
         {
             // Thực hiện tìm kiếm trong cơ sở dữ liệu hoặc từ nguồn dữ liệu khác
 
-            if (string.IsNullOrWhiteSpace(query))
+      /*      if (string.IsNullOrWhiteSpace(query))
             {
                 return View(new List<Blog>()); // Trả về một danh sách rỗng hoặc bạn có thể chọn hiển thị một thông báo lỗi/phản hồi.
             }
 
-            var blogs = await _context.Blogs
+            *//*var blogs = await _context.Blogs
                                       .Where(b => b.PlaceName.Contains(query)) // 'PlaceName' là tên cột chứa tên địa danh
-                                      .ToListAsync();
+                                      .ToListAsync();*/
 
             return View();
         }
