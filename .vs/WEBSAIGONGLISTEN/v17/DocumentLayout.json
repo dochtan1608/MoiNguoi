@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\doancoso\\moinguoi\\websaigonglisten\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\acer\\onedrive\\ta\u0300i li\u00EA\u0323u\\doancoso\\moinguoi\\websaigonglisten\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:57:38.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\DoAnCoSo\\MoiNguoi\\WEBSAIGONGLISTEN\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:50:58.604Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
