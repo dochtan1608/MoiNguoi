@@ -10,6 +10,7 @@ namespace WEBSAIGONGLISTEN.Models
         }
 
         public DbSet<Product> Products { get; set; }
+        public DnSet<Category> Category { get; set; }
         public DbSet<ProductImage> ProductImages { get; set; }
     }
 }
