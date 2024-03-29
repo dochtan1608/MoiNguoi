@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using static System.Runtime.InteropServices.JavaScript.JSType;
-using WEBSAIGONGLISTEN.Models;
-using WEBSAIGONGLISTEN.Repositories;
+using WebsiteBanHang.Models;
+using WebsiteBanHang.Repositories;
 
 namespace WEBSAIGONGLISTEN.Controllers
 {
@@ -36,7 +36,46 @@ namespace WEBSAIGONGLISTEN.Controllers
         }
 
         // Action để xử lý tìm kiếm sách
+        public ActionResult Search(string keyword)
+        {
+            // Kiểm tra xem từ khóa tìm kiếm có tồn tại không
+            if (!string.IsNullOrEmpty(keyword))
+            {
+                // Tìm kiếm sách theo từ khóa
+                var searchedBooks = data.Saches.Where(s => s.tensach.Contains(keyword));
+                if (searchedBooks.Count() == 0)
+                {
+                    ViewBag.Message = "Khong tim thay sach";
+                }
 
+                // Trả về view hiển thị kết quả tìm kiếm
+                return View("ListSach", searchedBooks);
+            }
+            else
+            {
+                // Nếu từ khóa rỗng, trả về trang danh sách sách ban đầu
+                return RedirectToAction("ListSach");
+            }
+        }
+
+        // Loại bỏ bối cảnh dữ liệu để tránh rò rỉ tài nguyên
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing)
+            {
+                data.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        public ActionResult SearchAutocomplete(string term)
+        {
+            var suggestedBooks = data.Saches
+                                     .Where(s => s.tensach.ToLower().Contains(term.ToLower()))
+                                     .Select(s => s.tensach)
+                                     .ToList();
+            return Json(suggestedBooks, JsonRequestBehavior.AllowGet);
+        }
 
     }
 }
