@@ -5,12 +5,10 @@ namespace WEBSAIGONGLISTEN.Models
 {
     public class ApplicationDbContext : IdentityDbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
-        {
-        }
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) {}
 
         public DbSet<Product> Products { get; set; }
-        public DnSet<Category> Category { get; set; }
+        public DbSet<Category> Categories { get; set; }
         public DbSet<ProductImage> ProductImages { get; set; }
     }
 }
