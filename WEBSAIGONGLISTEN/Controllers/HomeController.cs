@@ -3,8 +3,6 @@ using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using System.Reflection.Metadata;
 using WEBSAIGONGLISTEN.Models;
-using WebsiteBanHang.Models;
-using WebsiteBanHang.Repositories;
 
 namespace WEBSAIGONGLISTEN.Controllers
 {

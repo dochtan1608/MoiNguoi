@@ -1,4 +1,4 @@
-﻿/*using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 using WebsiteBanHang.Models;
 using WebsiteBanHang.Repositories;
@@ -79,4 +79,3 @@ namespace WEBSAIGONGLISTEN.Controllers
 
     }
 }
-*/

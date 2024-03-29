@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using System;
 using WEBSAIGONGLISTEN.Data;
+using WEBSAIGONGLISTEN.Models;
 
 namespace WEBSAIGONGLISTEN.Data.Migrations
 {
