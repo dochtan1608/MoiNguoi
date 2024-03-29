@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\trann\\OneDrive\\Documents\\\u0110ACS\\MoiNguoi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\trann\\onedrive\\documents\\\u0111acs\\moinguoi\\websaigonglisten\\controllers\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\controllers\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\trann\\onedrive\\documents\\\u0111acs\\moinguoi\\websaigonglisten\\controllers\\introducecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\controllers\\introducecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\trann\\onedrive\\documents\\\u0111acs\\moinguoi\\websaigonglisten\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\trann\\onedrive\\documents\\\u0111acs\\moinguoi\\websaigonglisten\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\trann\\onedrive\\documents\\\u0111acs\\moinguoi\\websaigonglisten\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|c:\\users\\trann\\onedrive\\documents\\\u0111acs\\moinguoi\\websaigonglisten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{045B66D0-9FD0-499A-8E24-6E6E57BBA45E}|WEBSAIGONGLISTEN\\WEBSAIGONGLISTEN.csproj|solutionrelative:websaigonglisten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,6 +51,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TourController.cs",
+              "DocumentMoniker": "C:\\Users\\trann\\OneDrive\\Documents\\\u0110ACS\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\TourController.cs",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Controllers\\TourController.cs",
+              "ToolTip": "C:\\Users\\trann\\OneDrive\\Documents\\\u0110ACS\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\TourController.cs",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\Controllers\\TourController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T07:00:14.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IntroduceController.cs",
+              "DocumentMoniker": "C:\\Users\\trann\\OneDrive\\Documents\\\u0110ACS\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\IntroduceController.cs",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Controllers\\IntroduceController.cs",
+              "ToolTip": "C:\\Users\\trann\\OneDrive\\Documents\\\u0110ACS\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\IntroduceController.cs",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\Controllers\\IntroduceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T07:00:11.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\trann\\OneDrive\\Documents\\\u0110ACS\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\trann\\OneDrive\\Documents\\\u0110ACS\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T07:00:08.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\trann\\OneDrive\\Documents\\\u0110ACS\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\trann\\OneDrive\\Documents\\\u0110ACS\\MoiNguoi\\WEBSAIGONGLISTEN\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:59:52.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\trann\\OneDrive\\Documents\\\u0110ACS\\MoiNguoi\\WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\trann\\OneDrive\\Documents\\\u0110ACS\\MoiNguoi\\WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEBSAIGONGLISTEN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T06:59:37.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\trann\\OneDrive\\Documents\\\u0110ACS\\MoiNguoi\\WEBSAIGONGLISTEN\\Program.cs",
               "RelativeDocumentMoniker": "WEBSAIGONGLISTEN\\Program.cs",
@@ -38,8 +122,7 @@
               "RelativeToolTip": "WEBSAIGONGLISTEN\\Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T06:49:29.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T06:49:29.836Z"
             }
           ]
         }
