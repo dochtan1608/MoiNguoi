@@ -1,11 +1,40 @@
-
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
 footer {
     margin: 0;
     padding: 0;
 }
+.inner-text {
+    position: absolute;
+    font-size: 10vh;
+    text-shadow: 2px black;
+    transition: ease 0.3s;
+    color: #B0DAFF;
+    letter-spacing: 20px;
+    right: 19%;
+    bottom: 56%;
+}
+.inner-text-sub{
+    position: absolute;
+    font-size: 5vh;
+    right: 32.5%;
+    bottom: 45%;
+    color: #D6E8DB;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 video.video {
     width: 100%;
+
 }
+.srcvideo{
+    position: relative;
+}
+
+
 .container-custom {
     min-height: calc(100vh - 153px);
     margin:0;
@@ -33,3 +62,4 @@ video.video {
         transform: translateY(-1px);
         box-shadow: 0 5px 10px rgba(0,0,0,.2);
     }
+
