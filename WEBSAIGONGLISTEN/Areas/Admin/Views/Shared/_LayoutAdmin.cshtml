@@ -191,7 +191,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../../index.html">
+                        <a class="nav-link" href="@Url.Action("Index", "Home")">
                             <span class="menu-title">Trang chủ</span>
                             <i class="mdi mdi-home menu-icon"></i>
                         </a>
@@ -212,8 +212,8 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../../pages/icons/mdi.html">
-                            <span class="menu-title">Icons</span>
+                        <a class="nav-link" href="~/Admin/Add">
+                            <span class="menu-title">Thêm sản phẩm</span>
                             <i class="mdi mdi-contacts menu-icon"></i>
                         </a>
                     </li>
@@ -302,5 +302,6 @@
     <!-- endinject -->
     <!-- Custom js for this page -->
     <!-- End custom js for this page -->
+    @RenderSection("Scripts", required: false)
 </body>
 </html>

@@ -39,7 +39,19 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Areas\Admin\Views\HomeAdmin\Index.cshtml" />
     <None Include="wwwroot\LayoutAdmin\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Areas\Admin\_ViewImports.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
   </ItemGroup>
 
 </Project>
