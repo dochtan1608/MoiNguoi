@@ -1,59 +1,29 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
-using System.Reflection.Metadata;
 using WEBSAIGONGLISTEN.Models;
-using WEBSAIGONGLISTEN.Repositories;
 
 namespace WEBSAIGONGLISTEN.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IProductRepository _productRepository;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IProductRepository productRepository)
         {
-            _logger = logger;
+            _productRepository = productRepository;
         }
 
-        public IActionResult Index()
+        // Hien thi danh sach san pham
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var products = await _productRepository.GetAllAsync();
+            return View(products);
         }
 
         public IActionResult Privacy()
         {
             return View();
         }
-        public IActionResult Blog()
-        {
-            return View();
-        }
-        public IActionResult Introduce()
-        {
-            return View();
-        }
-        public IActionResult Tour()
-        {
-            return View();
-        }
-
-        public IActionResult Search(string query)
-        {
-            // Thực hiện tìm kiếm trong cơ sở dữ liệu hoặc từ nguồn dữ liệu khác
-
-      /*      if (string.IsNullOrWhiteSpace(query))
-            {
-                return View(new List<Blog>()); // Trả về một danh sách rỗng hoặc bạn có thể chọn hiển thị một thông báo lỗi/phản hồi.
-            }
-
-            *//*var blogs = await _context.Blogs
-                                      .Where(b => b.PlaceName.Contains(query)) // 'PlaceName' là tên cột chứa tên địa danh
-                                      .ToListAsync();*/
-
-            return View();
-        }
-
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

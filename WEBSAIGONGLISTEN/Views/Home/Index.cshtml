@@ -1,61 +1,37 @@
-﻿@{
-    ViewData["Title"] = "SAIGON GLISTEN" ;
-    Layout = ViewData["Layout"] as string ?? "_LayoutHome";
+﻿@model IEnumerable<WEBSAIGONGLISTEN.Models.Product>
+@{
+    ViewData["Title"] = "Trang chủ";
+    int numOfQuantity = 1;
 }
+<section class="py-2">
+    <div class="container px-4 px-lg-5 mt-5">
 
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-
+content-center">
 
-   <div class="srcvideo">
-        <p class="inner-text">SAIGON GLISTEN</p>
-        <p class="inner-text-sub">TRẢI NGHIỆM NIỀM VUI BẤT TẬN</p>
-        <video class="video" src="~/LayoutAdmin/assets/images/bgvid.mp4" type="video/mp4" autoplay muted loop></video>
-   </div>
-
-
-        <hr class="featurette-divider my-5">
-        <div class="row featurette ">
-            <div class="col-md-7">
-            <div class="gucci-text">
-            <h2 class=" mx-5 my-5 featurette-heading fw-normal lh-1">Địa đạo <span class="text-body-secondary text-red">Củ Chi</span></h2>
-            <p class="lead mx-5 my-5">
-                Nằm cách trung tâm Thành phố Hồ Chí Minh khoảng 70 km về hướng Tây Bắc, Địa đạo Củ Chi là nơi thu nhỏ trận đồ biến hóa và sáng tạo của quân và dân Củ Chi trong cuộc kháng chiến lâu dài, ác liệt suốt 30 năm chống kẻ thù xâm lược, giành độc lập, tự do cho Tổ quốc.
-                Với tầm vóc chiến công của mình, địa đạo Củ Chi đã đi vào lịch sử đấu tranh anh hùng của nhân dân Việt Nam như một huyền thoại của thế kỷ 20 và trở thành một địa danh nổi tiếng trên thế giới. Đây là một kỳ quan đánh giặc độc đáo có một không hai với khoảng 250 km đường hầm tỏa rộng như mạng nhện trong lòng đất, có các công trình liên hoàn với địa đạo như: Chiến hào, ụ, ổ chiến đấu, hầm ăn, ngủ, hội họp, sinh hoạt, quân y, kho cất dấu lương thực, giếng nước, bếp Hoàng Cầm …
-            </p>
-            </div>
-               
-            </div>
-            <div class="col-md-4">
-               <img class="edithinh" src="~/LayoutAdmin/assets/images/gucci.jpg" />
-            </div>
+            @foreach (var item in Model)
+            {
+                <div class="col mb-5">
+                    <div class="card gap-3" style="width: 18rem">
+                        <img src="@item.ImageUrl" class="card-img-top" alt="..."
+                             style="height: 300px">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                @Html.DisplayFor(modelItem =>
+                                         item.Name)
+                            </h5>
+                            <div class="d-flex">
+                                <span>Gía: </span>
+                                <p class="mx-3">@item.Price.ToString("#,##0") Vnđ</p>
+                            </div>
+                            <a asp-controller="ShoppingCart" asp-action="AddToCart" asp-route-productId="@item.Id"
+                               asp-route-quantity="@numOfQuantity">
+                                <button class="btn btn-outline-dark"> <i class="bi-cart-fill me-1"></i> Thêm vào giỏ </button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
         </div>
-        <hr class="featurette-divider my-5">
-        <div class="row featurette">
-        <div class=" col-md-6 order-md-2">
-        <h2 class="mx-1 my-5 featurette-heading fw-normal lh-1">                 Đảo <span class="text-body-secondary">Hải Tặc</span></h2>
-            <p class="lead my-4">
-            Khoảng cuối thế kỷ 17 đầu thế kỷ 18, do quần đảo có địa hình hiểm trở, lại nằm trên tuyến thông thương quan trọng nên là nơi lý tưởng để cướp biển đồn trú, mai phục và tấn công các tàu bè qua lại. Đỉnh điểm của nạn cướp biển diễn ra vào giai đoạn Hà Tiên không có bộ máy cai quản do chính quyền Mạc Thiên Tích bị quân Xiêm đánh bại. Khi đó, cướp biển hoành hành từ vịnh Hà Tiên - Rạch Giá ra đến vịnh Thái Lan, gieo rắc sự kinh hoàng cho tàu buôn và ngư dân.
-
-            - Đến nay, vẫn còn lưu truyền một số tin đồn về kho báu trên Quần đảo Hải Tặc. Vào năm 1983, một người Mỹ và một người Anh từ đảo Phú Quốc đã xâm nhập hòn Tre Nhỏ với hành trang mang theo là bộ đàm, ống nhòm, hải đồ... Sau khi bị dân địa phương vây bắt, hai người này khai rằng họ có tấm bản đồ 300 tuổi vẽ kho báu của cướp biển chôn giấu trên các đảo này... Năm 2009, một số ngư dân đã vô tình tìm thấy một lượng tiền cổ tại đây.
-        </p>
-        </div>
-        <div class="col-md-5 order-md-1 mx-4">
-            <img class="edithinh" src="~/LayoutAdmin/assets/images/hinhdaohaitac.jpg" />
-        </div>
-         </div>
-        
-            
-        <hr class="featurette-divider my-5">
-<div class="row featurette ">
-    <div class="col-md-7">
-        <div class="gucci-text">
-            <h2 class=" mx-5 my-5 featurette-heading fw-normal lh-1">Chùa Phật Ngọc Xá Lợi <span class="text-body-secondary text-red">Vĩnh Long</span></h2>
-            <p class="lead mx-5 my-5">
-                Chùa Phật Ngọc Xá Lợi, nằm tại Vĩnh Long, là một biểu tượng văn hóa và tôn giáo ở miền Nam Việt Nam. Với kiến trúc truyền thống độc đáo và không gian yên bình, chùa thu hút nhiều du khách và phật tử mỗi năm. Nơi đây không chỉ là điểm đến tâm linh quan trọng mà còn là trung tâm của các hoạt động văn hóa và nghệ thuật. Chùa Phật Ngọc Xá Lợi thường tổ chức các lễ hội và sự kiện tôn giáo, góp phần duy trì và phát triển di sản văn hóa của địa phương. Bên cạnh đó, với không gian thiêng liêng và những bức tượng Phật trầm mặc, chùa còn là nơi để mọi người tìm kiếm sự bình an và tĩnh lặng trong cuộc sống hiện đại năng động.
-            </p>
-        </div>
-
     </div>
-    <div class="col-md-4">
-        <img class="edithinh" src="~/LayoutAdmin/assets/images/chuaphatngocxaloi.jpg" />
-    </div>
-</div>
-        <hr class="featurette-divider my-5">
+</section>
